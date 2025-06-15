@@ -1,4 +1,4 @@
-# GPA Calculator for FBLA 2023-2024
+# GPA Calculator for FBLA Intro to Programming Presentation Event (2023-2024)
 By Ananya Premkumar
 
 Hello! This is a GPA Calculator that I built during the 2023-2024 FBLA Competition, that (out of 86 national qualifying teams) placed Top 12 at the FBLA National Leadership Conference. 
